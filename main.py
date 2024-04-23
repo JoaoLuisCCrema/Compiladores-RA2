@@ -1,3 +1,9 @@
+#Joao Lucas M N C e Joao Luis C C
+#To execute the program, write on the terminal:
+# python main.py operacoes1.txt
+# python main.py operacoes2.txt
+# python main.py operacoes3.txt
+
 import sys
 
 class Node:
